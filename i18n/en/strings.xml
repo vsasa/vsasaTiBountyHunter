@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="fugitives">Fugitives</string>
+	<string name="captured">Captured</string>
+	<string name="add">Add</string>
+	<string name="capture">Capture</string>
+	<string name="delete">Delete</string>
+	<string name="busted">Busted!</string>
+	<string name="still_at_large">Still At Large</string>
+	<string name="new_fugitive">New Fugitive</string>
+	<string name="save">Save</string>
+	<string name="fugitive_name">Fugitive Name</string>
+	<string name="photo">Add Photo</string>
+	<string name="share">Share on Facebook</string>
+	<string name="camera_error">Camera Error</string>
+	<string name="camera_error_details">Your device must have a camera to add a photo</string>
+	<string name="map_button">Show On Map</string>
+	<string name="geo_error">Geolocation Off</string>
+	<string name="geo_error_details">Geolocation is turned off on this device.  Unable to determine location.</string>
+	<string name="busted_at">Busted At...</string>
+</resources>
